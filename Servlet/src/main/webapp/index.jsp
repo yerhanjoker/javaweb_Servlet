@@ -11,6 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-    hello
+    <form action="hello" method="init">
+        <input type="submit">
+    </form>
 </body>
 </html>
